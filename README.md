@@ -17,11 +17,13 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nithinvsk/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Nithinvsk/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nithinvsk/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Nithinvsk/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -31,4 +33,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nithinvsk/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
