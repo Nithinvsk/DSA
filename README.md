@@ -9,6 +9,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nithinvsk/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Nithinvsk/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@ Contains topicwise list of solved problems.
 | [0513-find-bottom-left-tree-value](https://github.com/Nithinvsk/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithinvsk/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Nithinvsk/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
