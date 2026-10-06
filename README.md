@@ -26,6 +26,7 @@ Contains topicwise list of solved problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Nithinvsk/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Nithinvsk/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nithinvsk/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithinvsk/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -42,6 +43,7 @@ Contains topicwise list of solved problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Nithinvsk/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Nithinvsk/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nithinvsk/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithinvsk/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -62,6 +64,7 @@ Contains topicwise list of solved problems.
 | [0112-path-sum](https://github.com/Nithinvsk/DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Nithinvsk/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nithinvsk/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithinvsk/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -74,6 +77,7 @@ Contains topicwise list of solved problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Nithinvsk/DSA/tree/main/0112-path-sum/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Nithinvsk/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nithinvsk/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithinvsk/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
