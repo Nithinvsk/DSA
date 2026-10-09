@@ -84,6 +84,7 @@ Contains topicwise list of solved problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Nithinvsk/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Nithinvsk/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 ## String
 | Problem Name | Difficulty |
