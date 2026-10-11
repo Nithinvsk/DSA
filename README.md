@@ -102,4 +102,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nithinvsk/DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nithinvsk/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nithinvsk/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
