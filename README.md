@@ -111,3 +111,83 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nithinvsk/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
+<hr>
+
+
+<!---GeeksForGeeks Companies Start-->
+# GeeksForGeeks Companies
+
+## Paytm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Flipkart
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Morgan Stanley
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Accolite
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Amazon
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Microsoft
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## OYO Rooms
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Samsung
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Snapdeal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Zoho
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+<!---GeeksForGeeks Companies End-->
+
+<hr>
+
+
+<!---GeeksForGeeks Tags Start-->
+# GeeksForGeeks Tags
+
+## Arrays
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+## Coin Change Dp 7
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
+
+<!---GeeksForGeeks Tags End-->
