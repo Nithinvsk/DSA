@@ -95,6 +95,7 @@ Contains topicwise list of solved problems.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nithinvsk/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nithinvsk/DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -129,11 +130,16 @@ Contains topicwise list of solved problems.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nithinvsk/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nithinvsk/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
 <hr>
 
