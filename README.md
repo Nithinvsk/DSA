@@ -8,6 +8,7 @@ Contains topicwise list of solved problems.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Nithinvsk/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Nithinvsk/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 ## Bit Manipulation
@@ -106,6 +107,7 @@ Contains topicwise list of solved problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nithinvsk/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Enumeration
@@ -124,6 +126,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
 <hr>
 
