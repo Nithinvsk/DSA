@@ -110,6 +110,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
+| [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nithinvsk/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -140,6 +141,22 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithinvsk/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 <!---LeetCode Topics End-->
 <hr>
 
