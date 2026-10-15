@@ -109,6 +109,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nithinvsk/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -144,6 +145,7 @@ Contains topicwise list of solved problems.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -152,11 +154,17 @@ Contains topicwise list of solved problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
 <hr>
 
