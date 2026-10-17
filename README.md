@@ -96,6 +96,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithinvsk/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0125-valid-palindrome](https://github.com/Nithinvsk/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nithinvsk/DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -168,6 +169,10 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Nithinvsk/DSA/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
 <hr>
 
