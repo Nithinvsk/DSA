@@ -109,6 +109,7 @@ Contains topicwise list of solved problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Nithinvsk/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nithinvsk/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -157,6 +158,7 @@ Contains topicwise list of solved problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Nithinvsk/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nithinvsk/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -172,6 +174,7 @@ Contains topicwise list of solved problems.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Nithinvsk/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nithinvsk/DSA/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
 <hr>
