@@ -51,12 +51,7 @@ Contains topicwise list of solved problems.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithinvsk/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nithinvsk/DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0144-binary-tree-preorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +175,7 @@ Contains topicwise list of solved problems.
 <hr>
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -211,6 +207,7 @@ Contains topicwise list of solved problems.
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-stacks-in-array](https://github.com/Nithinvsk/DSA/tree/main/0two-stacks-in-array/) | Medium |
 | [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
 
 ## OYO Rooms
@@ -221,11 +218,13 @@ Contains topicwise list of solved problems.
 ## Samsung
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-stacks-in-array](https://github.com/Nithinvsk/DSA/tree/main/0two-stacks-in-array/) | Medium |
 | [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
 
 ## Snapdeal
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-stacks-in-array](https://github.com/Nithinvsk/DSA/tree/main/0two-stacks-in-array/) | Medium |
 | [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
 
 ## Zoho
@@ -233,9 +232,16 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
 
+## 24*7 Innovation Labs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0two-stacks-in-array](https://github.com/Nithinvsk/DSA/tree/main/0two-stacks-in-array/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
+
 <hr>
+
 
 
 <!---GeeksForGeeks Tags Start-->
@@ -244,11 +250,13 @@ Contains topicwise list of solved problems.
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-stacks-in-array](https://github.com/Nithinvsk/DSA/tree/main/0two-stacks-in-array/) | Medium |
 | [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
 | [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
 
 ## Coin Change Dp 7
@@ -256,4 +264,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [coin-change-count-ways](https://github.com/Nithinvsk/DSA/tree/main/coin-change-count-ways/) | Medium |
 
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nithinvsk/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0two-stacks-in-array](https://github.com/Nithinvsk/DSA/tree/main/0two-stacks-in-array/) | Medium |
+
+## Implement Two Stacks In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0two-stacks-in-array](https://github.com/Nithinvsk/DSA/tree/main/0two-stacks-in-array/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
