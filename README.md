@@ -51,7 +51,6 @@ Contains topicwise list of solved problems.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithinvsk/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithinvsk/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nithinvsk/DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
-
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +85,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Nithinvsk/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0319-bulb-switcher](https://github.com/Nithinvsk/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Nithinvsk/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -171,6 +171,10 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Nithinvsk/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nithinvsk/DSA/tree/main/0125-valid-palindrome/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Nithinvsk/DSA/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
 <hr>
 
