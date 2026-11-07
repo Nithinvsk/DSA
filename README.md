@@ -105,6 +105,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Nithinvsk/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithinvsk/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nithinvsk/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -118,6 +119,7 @@ Contains topicwise list of solved problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithinvsk/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
