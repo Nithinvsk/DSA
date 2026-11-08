@@ -92,6 +92,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithinvsk/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nithinvsk/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/Nithinvsk/DSA/tree/main/0344-reverse-string/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nithinvsk/DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Nithinvsk/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nithinvsk/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/Nithinvsk/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
