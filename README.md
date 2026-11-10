@@ -11,6 +11,7 @@ Contains topicwise list of solved problems.
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Nithinvsk/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Nithinvsk/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0704-binary-search](https://github.com/Nithinvsk/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ Contains topicwise list of solved problems.
 | [0217-contains-duplicate](https://github.com/Nithinvsk/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0704-binary-search](https://github.com/Nithinvsk/DSA/tree/main/0704-binary-search/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nithinvsk/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
