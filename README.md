@@ -109,6 +109,7 @@ Contains topicwise list of solved problems.
 | [0016-3sum-closest](https://github.com/Nithinvsk/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nithinvsk/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithinvsk/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Nithinvsk/DSA/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nithinvsk/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -146,10 +147,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithinvsk/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/Nithinvsk/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nithinvsk/DSA/tree/main/0217-contains-duplicate/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Nithinvsk/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Greedy
@@ -160,6 +163,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Nithinvsk/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0169-majority-element](https://github.com/Nithinvsk/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithinvsk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nithinvsk/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -191,6 +195,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Nithinvsk/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nithinvsk/DSA/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nithinvsk/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
 <hr>
 
