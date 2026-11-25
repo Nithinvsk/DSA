@@ -116,6 +116,7 @@ Contains topicwise list of solved problems.
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Nithinvsk/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0704-binary-search](https://github.com/Nithinvsk/DSA/tree/main/0704-binary-search/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Nithinvsk/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nithinvsk/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithinvsk/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Nithinvsk/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
