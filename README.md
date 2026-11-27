@@ -86,6 +86,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Nithinvsk/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/Nithinvsk/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0319-bulb-switcher](https://github.com/Nithinvsk/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Nithinvsk/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 ## String
@@ -126,6 +127,7 @@ Contains topicwise list of solved problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Nithinvsk/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithinvsk/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
@@ -207,6 +209,10 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Nithinvsk/DSA/tree/main/0169-majority-element/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Nithinvsk/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
 <hr>
 
