@@ -89,6 +89,7 @@ Contains topicwise list of solved problems.
 | [0070-climbing-stairs](https://github.com/Nithinvsk/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0319-bulb-switcher](https://github.com/Nithinvsk/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Nithinvsk/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0509-fibonacci-number](https://github.com/Nithinvsk/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ Contains topicwise list of solved problems.
 | [0070-climbing-stairs](https://github.com/Nithinvsk/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithinvsk/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/Nithinvsk/DSA/tree/main/0322-coin-change/) | Medium |
+| [0509-fibonacci-number](https://github.com/Nithinvsk/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Nithinvsk/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Nithinvsk/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +216,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Nithinvsk/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Nithinvsk/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
 <hr>
 
